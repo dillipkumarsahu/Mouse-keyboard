@@ -1,0 +1,13 @@
+
+body{
+	background: #ddd;
+	text-align: center;
+}
+
+button{
+	margin-top: 10%;
+}
+p{
+	font-family: sans-serif;
+	font-weight: bold;
+}
